@@ -1,2 +1,2 @@
  # gizumo20.md～gizumo29.mdを無視する
-trash/gizumo[20-29].md
+trash/gizumo2[0-9]|2[0-9].md
